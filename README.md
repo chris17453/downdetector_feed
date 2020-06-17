@@ -1,7 +1,8 @@
 # downdetector_feed
 a simple python demo script which parses the downdetector website for json data for use in reporting
 
-
+### note
+This was a 3 hour demo project. Nothing deep. Evaluate as such
 
 ## usage
 ```bash
