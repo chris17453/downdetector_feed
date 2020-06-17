@@ -1,0 +1,6 @@
+pandas
+matplotlib
+matplotlib
+urllib
+datetime
+argparse
