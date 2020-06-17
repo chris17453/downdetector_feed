@@ -2,7 +2,9 @@
 a simple python demo script which parses the downdetector website for json data for use in reporting
 
 ### note
-This was a 3 hour demo project. Nothing deep. Evaluate as such
+- This was a 3 hour demo project. Nothing deep. Evaluate as such
+- I advide the use of downdetector's supported api if you find this of value
+- I have nothing to do with downdetector. Just a random guy deving
 
 ## usage
 ```bash
