@@ -43,7 +43,7 @@ optional arguments:
 ## example plot of the data
 ![](amazon.png?raw=true)
 
-## exxample csv data
+## example csv data
 ```
 "date","count"
 2020-06-11T03:44:10-04:00,4
